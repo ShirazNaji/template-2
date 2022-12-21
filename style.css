@@ -1,0 +1,481 @@
+
+		  
+.div1{
+			   border:3px solid green;
+			   width:1000px;
+			   height:2500px;
+			   margin:auto;
+			   margin-top:-7;
+			 
+}
+			 
+			 
+.div2{
+			    border:2px solid black;
+			    margin-top:40px;
+				margin-left:40px;
+			    width:900px;
+			    height:2400px;
+				padding-top:7px;
+				padding-left:20px;
+				
+				
+			 
+}
+			 
+.div3{
+			    background-color:green;
+			    margin-top:100px;
+				margin-left:-20px;
+			    width:920px;
+				
+				height:50px;
+}
+			 
+div.background1{
+			         
+					 
+			         width:920px;
+					 height:370px;
+					 
+			         margin-left:-20px;
+					 background-image:url("img/back1.jpg");
+			         background-repeat:no-repeat;
+					  background-size:500px  400px;
+					  margin-left:5px;
+					  margin-top:3px;
+			 
+}
+div.adress{ 
+			 
+			   
+			   padding-left:540px;
+			   padding-top:156px;
+			   
+			 
+}
+			 
+			 
+			 
+			 
+		  
+		   
+div.menue{
+			  margin-left:50px;
+			 
+			 
+			 
+}
+		     
+.ul{
+			    
+	              position:absolute;
+	              list-style-type:none;
+		          display:block;
+		          margin:0px;
+		          padding:0px;
+		          width:950px;
+		          height:40px;
+				 
+}
+.li{
+	            float:left;
+				padding:10px;
+}
+.li a{
+	               text-decoration:none;
+	               color:black;
+	               
+}
+				
+.select1 {
+			   border:none;
+			   
+			   
+}
+			
+.li:first-child{
+	              padding-right:191px;
+	              font-family:tahoma;
+		          font-size:15px;
+		          padding-top:10px;
+				  padding-left:3px;
+}
+							
+							
+#img1{
+			     width:80px;
+				 height:80px;
+			     vertical-align:middle;
+				 
+			
+}
+#img2{
+			     width:20px;
+				 height:20px;
+			     vertical-align:middle;
+				 
+			
+}
+			
+#img3{
+			     width:40px;
+				 height:40px;
+			     
+				 
+			
+}
+			
+#organic{
+			      color:green;
+			      font-weight:bolder;
+				  font-size:30px;
+}		
+
+.input1{
+			   width:250px;
+			   height:30px;
+			   padding-left:45px;
+			  
+}
+.input1 , .button1 ,.select2{
+			   position:absolute;
+			   margin-top:20px;
+			   margin-left:140px;
+			 
+}
+.button1{
+			   margin-left:340px;
+			   height:30px;
+			   background-color:orange;
+			   color:black;
+			   border:1px solid orange;
+			 
+}
+.select2 {
+			  
+			   height:30px;
+			 
+}
+			 
+			 
+			
+.logo1{
+			      color:black;
+			      font-weight:bold;
+				  font-size:15px;
+				  margin-left:550px;
+				  
+			 
+}
+.logo ,.search ,.logo1{
+			   float:left;
+			   
+			
+}
+.ul1{
+			    
+	             
+	              list-style-type:none;
+		          position:absolute;
+		          
+		          
+				 
+}
+			
+			
+			
+			
+.li1{
+	             float:left;
+				 margin-left:-50px;
+	             margin-top: -7px;
+				 margin-right:70px;
+				 
+}
+.li1 a{
+	               text-decoration:none;
+	               color:white;
+	               
+}
+				
+				
+				
+				
+				
+.li1:first-child{
+	              margin-left:-80px;
+	              margin-top: -12px;
+}
+							
+			
+#sale{
+			  background-color:orange;
+			  top:-25px;
+			  left:760px;
+			  position:absolute;
+			  width:40px;
+			  height:20px;
+			  text-indent:6px;
+			
+}
+							
+#ruby1{
+			
+			  font-size:50px;
+			  
+			
+}
+
+#rt1{
+			  
+			  font-size:20px;
+			  margin:10px;
+			  font-style:italic;
+			  word-spacing:-60px;
+			  font-family:consolas;
+			  color:orange;
+}			
+							
+							
+#natural{
+			    font-size:30px;
+			    margin-left:50px;
+			    margin-top:10px;
+			    color:green;
+}	
+
+#SHOP1{
+			
+			   margin-left:80px;
+			   margin-top:7px;
+			   background-color:orange;
+			   border:1px solid orange;
+			   width:100px;
+			   height:30px;
+			   font-weight:bold;
+}
+
+
+div.images{
+			   margin-top:30px;
+			   
+			   
+}			
+			
+div.images1 , div.images2 , div.images3{
+			
+			      display:inline;
+				  float:left;
+				  
+				  margin-left:46px;
+				
+			
+}
+			
+			
+			
+
+div.images1{
+			  margin-top:30px;
+			   background-image:url("img/back2.jpg");
+			   background-repeat:no-repeat;
+			   background-size:230px  200px;
+			   width:230px;
+			   height:200px;
+			   border:1px solid green;
+			   
+			
+}
+			
+			
+			
+div.images2{
+			  margin-top:30px;
+			   background-image:url("img/juice.jpg");
+			   background-repeat:no-repeat;
+			   background-size:230px  200px;
+			   width:230px;
+			   height:200px;
+			   border:1px solid green;
+			  
+			
+}
+			
+			
+			
+			
+div.images3{
+			  margin-top:30px;
+			   background-image:url("img/veg.jpg");
+			   background-repeat:no-repeat;
+			   background-size:230px  200px;
+			   width:230px;
+			   height:200px;
+			   border:1px solid green;
+			   
+			
+}
+             
+
+.h2{
+			
+			 width:220px;
+			 height:30px;
+			 background-color:green;
+			 color:white;
+			 text-align:center;
+			 
+			 margin-top:0;
+			 padding:5px;
+			 
+			
+			
+}
+div.frut{
+			
+			 
+			 width:900px;
+			 height:340px;
+			 margin-top:280px;
+			 margin-left:-20px;
+			
+}
+			
+div.Vegt{
+			
+			 
+			 width:900px;
+			 height:340px;
+			 margin-top:90px;
+			 margin-left:-20px;
+			
+}
+			
+div.juice{
+			    width:900px;
+			    height:340px;
+			    margin-top:30px;
+			    margin-left:-20px;
+			
+			
+			
+			}
+			
+			
+			
+
+.h3{
+			
+			   background-color:green;
+			   color:white;
+			   width:160px;
+			   height:40px;
+			   border:1px solid green;
+			   border-top-right-radius:30px;
+			   text-indent:5px;
+			   font-size:30px;
+			  
+			
+			}
+
+.imagesfrut11 ,.imagesfrut12 , .imagesfrut13 , .imagesfrut14 {
+			
+			   width:195px;
+			   height:200px;
+			   margin-top:1px;
+			   margin-left:2px;
+			
+			}			
+.frut1, .frut2, .frut3 , .frut4{
+			
+			   float:left;
+			   border:2px solid green;
+			   width:200px;
+			   height:245px;
+			   margin-left:20px;
+			   
+			   
+			
+			}
+.frutprice{
+			
+			   width:200px;
+			   height:20px;
+			   background-color:green;
+			   color:white;
+			   margin-top:20px;
+			   padding-top:5px;
+			   
+			   text-align:center;
+			}
+			
+			
+.h1{
+			
+			 margin-left:370px;
+			 font-weight:bolder;
+			 color:green;
+			 display:inline;
+			
+			}
+			
+div.signup{ margin-top:20px; }
+			
+			
+.formsignup{
+			
+			  width:700px;
+			  height:400px;
+			  
+			  padding-left:235px;
+			  
+			  
+			
+			}
+.signupadress{
+			     
+			     font-weight:bolder;
+			     color:green;
+			     display:inline-block;
+				 
+				 width:900px;
+				 height:40px;
+				 text-align:center;
+			     
+			
+	}
+			
+.inputsignup{
+			 
+			    width:198px;
+				height:30px;
+			    padding-left:10px;
+				margin-top:20px;
+				
+			  
+			
+			}
+.inputsignup1 ,.inputsignup2{
+			 
+			    width:400px;
+				height:30px;
+			    margin-top:10px;
+			    padding-left:10px;
+				
+			}
+.inputsignup2{
+			  
+			  background-color:green;
+			  border:1px solid green;
+			  color:white;
+			  font-size:20px;
+			
+			}
+			
+.checkbox{
+			
+			      margin-top:10px;
+			
+			
+			}
